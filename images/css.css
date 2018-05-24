@@ -1,0 +1,12 @@
+body{text-align:center;}
+#container{width:1000px;}
+#top{ text-align:center;}
+#top li{float:right;margin:5px 50px 5px 5px; height:30px; list-style:none; width:80px; text-align:center; background-color:#99CCFF;}
+#content
+{
+clear:both;
+}
+#footer{clear:both; text-align:center;}
+.logo{float:left;}
+.dh{float:right;}
+
